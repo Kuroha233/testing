@@ -5,7 +5,7 @@
   <a href="https://github.com/{{ student.user }}">
       {{ student.user }}
     </a> ({{ student.name }})
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>{{ student.content | markdownify }}</p>
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>{{ student.content }}</p>
   
 {% endfor %}
 
