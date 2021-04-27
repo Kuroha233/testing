@@ -2,7 +2,7 @@
 
 {% for student in site.stu %}
 <p>
-<a><img src="{{ student.image }}"></a>@<a href="https://github.com/{{ student.user }}">{{ student.user }}</a> ({{ student.name }}){{ student.content | markdownify }}
+<a><img src="{{ student.image }}"></a><a href="https://github.com/{{ student.user }}">@{{ student.user }}</a> ({{ student.name }}){{ student.content | markdownify }}
 </p>
 <br>
 {% endfor %}
