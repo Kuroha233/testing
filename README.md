@@ -5,4 +5,4 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>{{ student.content | markdownify }}</p>
 {% endfor %}
 
-[author](https://github.com/Kuroha233}
+[author](https://github.com/Kuroha233)
