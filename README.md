@@ -7,4 +7,4 @@
 <br>
 {% endfor %}
 
-[Kuroha233](https://github.com/Kuroha233)
+Author: [Kuroha233](https://github.com/Kuroha233)
