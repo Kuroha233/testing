@@ -10,4 +10,4 @@
  </p>
 {% endfor %}
 
-[author](https://github.com/Kuroha233)
+[Kuroha233](https://github.com/Kuroha233)
