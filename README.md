@@ -7,7 +7,7 @@
     </a> ({{ student.name }})</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>{{ student.content | markdownify }}</p>
   
-  
+  <a><img src="{{ student.image }}"></a>
 {% endfor %}
 
 [author](https://github.com/Kuroha233)
